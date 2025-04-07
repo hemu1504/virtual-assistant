@@ -1,0 +1,397 @@
+
+@media (min-width:1202px) and (max-width:1496px){
+    body{
+        width: 100%;
+        height: 100%;
+        
+        background-image: url(../images/wmremove-transformed.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:30px;
+        flex-direction: column;
+    
+    }
+   
+    h1{
+        color: aliceblue;
+        font-family: "Protest Guerrilla", sans-serif;
+        position: relative;
+        top: 65vh;
+        left: 28%;
+    }
+    #name{
+        color:rgb(212, 43, 122);
+        display: flex;
+        font-size: 40px;
+    }
+    #va{
+        color:rgb(43, 206, 212);
+        font-size: 40px; 
+    }
+    #voice{
+        width: 100px;
+        display: none;
+        position: relative;
+        top: 65vh;
+        left: 28%;
+       
+    }
+    #btn{
+    width: 25%;
+    background: linear-gradient(to right,rgb(21, 145, 207),rgb(201, 41, 116));
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 2px 2px 10px rgb(21, 145, 207),2px 2px 10px rgb(201, 41, 116);
+    border: none;
+    transition: all 0.5s;
+    cursor: pointer;
+    position: relative;
+    top: 65vh;
+    left: 28%;
+    }
+    #btn:hover{
+        box-shadow: 2px 2px 20px rgb(21, 145, 207),2px 2px 20px rgb(201, 41, 116);
+        letter-spacing: 2px;
+    }
+}
+
+@media (min-width:1000px) and (max-width:1202px){
+    body{
+        width: 100%;
+        height: 100%;
+        
+        background-image: url(../images/wmremove-transformed.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:30px;
+        flex-direction: column;
+    
+    }
+   
+    h1{
+        color: aliceblue;
+        font-family: "Protest Guerrilla", sans-serif;
+        position: relative;
+        top: 40vh;
+        left: 28%;
+    }
+    #name{
+        color:rgb(212, 43, 122);
+        font-size: 35px;
+        display: flex;
+    }
+    #va{
+        color:rgb(43, 206, 212);
+        font-size: 35px; 
+    }
+    #voice{
+        width: 100px;
+        display: none;
+        position: relative;
+        top: 50vh;
+        left: 25%;
+       
+    }
+    #btn{
+        width: 25%;
+        background: linear-gradient(to right,rgb(21, 145, 207),rgb(201, 41, 116));
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 20px;
+        border-radius: 20px;
+        color: white;
+        box-shadow: 2px 2px 10px rgb(21, 145, 207),2px 2px 10px rgb(201, 41, 116);
+        border: none;
+        transition: all 0.5s;
+        cursor: pointer;
+        position: relative;
+        top: 40vh;
+        left: 28%;
+        }
+
+}
+@media (min-width:870px) and (max-width:1060px){
+    body{
+        width: 100%;
+        height: 100%;
+        
+        background-image: url(../images/wmremove-transformed.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:30px;
+        flex-direction: column;
+    
+    }
+   
+    h1{
+        color: aliceblue;
+        font-family: "Protest Guerrilla", sans-serif;
+        position: relative;
+        top:50vh;
+        left:25%;
+    }
+    #name{
+        color:rgb(212, 43, 122);
+        font-size: 25px;
+        display: flex;
+    }
+    #va{
+        color:rgb(43, 206, 212);
+        font-size: 25px; 
+    }
+    #voice{
+        width: 100px;
+        display: none;
+        position: relative;
+        top: 50vh;
+        left: 25%;
+       
+    }
+    #btn{
+        width: 28%;
+        background: linear-gradient(to right,rgb(21, 145, 207),rgb(201, 41, 116));
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 15px;
+        border-radius: 20px;
+        color: white;
+        box-shadow: 2px 2px 10px rgb(21, 145, 207),2px 2px 10px rgb(201, 41, 116);
+        border: none;
+        transition: all 0.5s;
+        cursor: pointer;
+        position: relative;
+        top: 50vh;
+        left: 25%;
+        }
+}
+
+
+@media (min-width:600px) and (max-width:870px){
+    body{
+        width: 100%;
+        height: 100%;
+        
+        background-image: url(../images/wmremove-transformed.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:30px;
+        flex-direction: column;
+    
+    }
+   
+    h1{
+        color: aliceblue;
+        font-family: "Protest Guerrilla", sans-serif;
+        position: relative;
+        top: 25vh;
+        left:30%;
+        font-size: 16px;
+    }
+    #name{
+        color:rgb(212, 43, 122);
+        font-size: 25px;
+        display: flex;
+    }
+    #va{
+        color:rgb(43, 206, 212);
+        /* white-space: initial;
+        word-break: break-word; */
+        font-size: 25px; 
+    }
+    #voice{
+        width: 100px;
+        display: none;
+        position: relative;
+        top: 25vh;
+        left:30%;
+       
+    }
+    #btn{
+        width: 35%;
+        background: linear-gradient(to right,rgb(21, 145, 207),rgb(201, 41, 116));
+        padding: 6px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 7px;
+        font-size: 14px;
+        border-radius: 10px;
+        color: white;
+        box-shadow: 2px 2px 10px rgb(21, 145, 207),2px 2px 10px rgb(201, 41, 116);
+        border: none;
+        transition: all 0.5s;
+        cursor: pointer;
+        position: relative;
+        top: 25vh;
+        left:30%;
+        }
+}
+@media (min-width:400px) and (max-width:600px){
+    body{
+        width: 100%;
+        height: 100%;
+        
+        background-image: url(../images/wmremove-transformed.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:30px;
+        flex-direction: column;
+    
+    }
+   
+    h1{
+        color: aliceblue;
+        font-family: "Protest Guerrilla", sans-serif;
+        position: absolute;
+        top: 15vh;
+        left:65%;
+        position: fixed;
+        
+        display: flex;
+     /* display: block; */
+        /* flex-wrap: wrap; */
+        flex-direction: column;
+        /* font-size: 13px; */
+       
+
+        /* text-overflow: hidden;  */
+        font-size: 16px;
+    }
+    #name{
+        color:rgb(212, 43, 122);
+        font-size: 25px;
+        /* line-height: 20px; */
+        /* text-overflow: 20%; */
+    }
+    #va{
+        color:rgb(43, 206, 212);
+        /* white-space: initial;
+        word-break: break-word; */
+        font-size: 18px; 
+    }
+    #voice{
+        width: 50px;
+        display: none;
+        position: relative;
+        top: 37vh;
+        left: 70%;
+        position: fixed;
+       
+    }
+    #btn{
+        width: 35%;
+        background: linear-gradient(to right,rgb(21, 145, 207),rgb(201, 41, 116));
+        padding: 2px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+        font-size: 10px;
+        /* border-radius: 10px; */
+        color: white;
+        box-shadow: 2px 2px 10px rgb(21, 145, 207),2px 2px 10px rgb(201, 41, 116);
+        border: none;
+        transition: all 0.5s;
+        cursor: pointer;
+        position: relative;
+        top: 37vh;
+        left: 60%;
+        position: fixed;
+        }
+        #btn:hover{
+            box-shadow: 2px 2px 20px rgb(21, 145, 207),2px 2px 20px rgb(201, 41, 116);
+            letter-spacing: 0.2px;
+        }
+}
+@media (min-width:220px) and (max-width:400px) {
+    #btn{
+        width: 38%;
+        background: linear-gradient(to right,rgb(21, 145, 207),rgb(201, 41, 116));
+        padding: 0.5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.2px;
+        font-size: 7px;
+        /* border-radius: 10px; */
+        color: white;
+        box-shadow: 2px 2px 10px rgb(21, 145, 207),2px 2px 10px rgb(201, 41, 116);
+        border: none;
+        transition: all 0.5s;
+        cursor: pointer;
+        position: relative;
+        top: 25vh;
+        left: 57%;
+        position: fixed;
+        }
+        #btn:hover{
+            box-shadow: 2px 2px 20px rgb(21, 145, 207),2px 2px 20px rgb(201, 41, 116);
+            letter-spacing: 0.2px;
+        }
+        h1{
+            color: aliceblue;
+            font-family: "Protest Guerrilla", sans-serif;
+            /* position: absolute; */
+            top: 8vh;
+            left:65%;
+            position: fixed;
+            display: flex;
+            /* flex-wrap: nowrap; */
+            flex-direction: column;
+            font-size: 14px;
+        }
+        #voice{
+            width: 30px;
+            display: none;
+            position: relative;
+            top: 25vh;
+            left: 70%;
+            position: fixed;
+           
+        }
+        #name{
+            color:rgb(212, 43, 122);
+            font-size: 16px;
+            /* line-height: 20px; */
+            /* text-overflow: 20%; */
+        }
+        #va{
+            color:rgb(43, 206, 212);
+            /* white-space: initial;
+            word-break: break-word; */
+            font-size: 12px; 
+        }
+}
+
